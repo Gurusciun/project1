@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="runtime_permissions_txt">Enable the permission</string>
+
+</resources>
