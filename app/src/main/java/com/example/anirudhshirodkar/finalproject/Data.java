@@ -1,7 +1,7 @@
 package com.example.anirudhshirodkar.finalproject;
 
 
-public class Mydata {
+public class Data {
 
 
     static String[] nameArray = {"Cupcake", "Donut", "Eclair", "Froyo", "Gingerbread", "Honeycomb", "Ice Cream Sandwich","JellyBean", "Kitkat", "Lollipop", "Marshmallow"};

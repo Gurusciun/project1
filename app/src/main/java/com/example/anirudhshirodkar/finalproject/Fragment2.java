@@ -23,9 +23,6 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by latheeshvirupakshi on 3/21/17.
- */
 
 public class Fragment2 extends android.support.v4.app.Fragment {
 

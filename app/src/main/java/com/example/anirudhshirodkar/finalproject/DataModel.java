@@ -1,13 +1,13 @@
 package com.example.anirudhshirodkar.finalproject;
 
-public class Model {
+public class DataModel {
 
     String name;
     String version;
     int id_;
     int image;
 
-    public Model(String name, String version, int id_, int image) {
+    public DataModel(String name, String version, int id_, int image) {
         this.name = name;
         this.version = version;
         this.id_ = id_;
